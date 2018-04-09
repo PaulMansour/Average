@@ -1,8 +1,9 @@
-:Namespace 
+﻿:Namespace 
     CaseCode←'On'
     KeepHistory←'On'
     Load←''
     Open←''
     ProjectSpace←'#.Average'
     StartUp←''
+    Version←-'0.0.0'
 :EndNamespace 

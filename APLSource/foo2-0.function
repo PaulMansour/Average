@@ -1,4 +1,7 @@
  foo2←{
      2×⍺+⍵
      ⍝ Change 1
+     ⍝ Bug fix change 1
+     ⍝ Bug fix chagne 2
+     ⍝ Bug fix change 3
  }

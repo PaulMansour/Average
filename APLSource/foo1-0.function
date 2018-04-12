@@ -1,12 +1,4 @@
- foo1←{
-     asdfasdf
-     (+/⍵)÷≢⍵
-     asfd
-       ⍝ sadfasdf dsa
-     ⍝ Chagne
-     ⍝ Change 2
-     ⍝ dddd
-     ⍝ XXXXXX
+﻿ foo1←{
+asdf
 
-     ⍝ DDDD Change 3
  }

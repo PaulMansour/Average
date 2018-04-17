@@ -1,6 +1,7 @@
  foo1←{
      asdf THIS LINE MODIFIED FIXING BUGABC
      This is a change made in Bug Y branch
+     REMOTE CHANGE BY ANOTHER USER
      First change in Bug Z
      First chagne in Butg1
      CHANGE IN HotFix 2 Second change in Bug1 CHANGED IN BugFixDEF ⍝ Manually merged!

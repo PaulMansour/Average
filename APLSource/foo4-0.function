@@ -1,5 +1,9 @@
- foo4←{
+foo4←{
 ⍝ New function
+<<<<<<< HEAD
      asdfasdfa
      asdfasdf asd f 0
+=======
+   NEW CHANGES     asdfasdf asd f 0
+>>>>>>> origin/master
  }

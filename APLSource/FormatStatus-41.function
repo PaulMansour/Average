@@ -1,0 +1,8 @@
+ FormatStatus←{
+     ⍝ ⍺ ←→ Project Space
+     ⍝ ⍵ ←→ Result of Status or Diff
+     m←⊃⍵
+     k←(~∧⌿' '=m)⊆m
+     ¨k[;1]
+
+ }
